@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Page [WishList] Renders 1`] = `
+<section
+  className="category bg-white content"
+>
+  <div
+    className="container"
+  >
+    <div
+      className="category-grid"
+    >
+      Wish list is empty
+    </div>
+  </div>
+</section>
+`;

@@ -1,0 +1,40 @@
+@import "../../styles/variables.scss";
+
+.book {
+  &-description {
+    padding: 0 16px 10px;
+
+    @media screen and (max-width: 600px) {
+      padding-left: 0;
+    }
+  }
+
+  &-content {
+    @media screen and (max-width: 600px) {
+      flex-direction: column;
+    }
+  }
+
+  &_image {
+    min-width: 125px;
+  }
+
+  &-item {
+    margin: 0 0 0 6px;
+  }
+
+  &-button {
+    background: var(--category-color);
+    padding: 10px 16px;
+    border: none;
+    margin: 16px 0;
+    cursor: pointer;
+    transition: $transition;
+    color: $white;
+
+    &:hover {
+      background: $lightblue;
+      color: $grey;
+    }
+  }
+}

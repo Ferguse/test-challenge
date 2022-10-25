@@ -1,0 +1,35 @@
+@import "./styles/fonts.scss";
+@import "./styles/normalize.scss";
+@import "./styles/common.scss";
+@import "./styles/variables.scss";
+
+html {
+  height: 100%;
+  box-sizing: border-box;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: inherit;
+}
+
+body {
+  min-width: 320px;
+  font-family: $fontFamilySourceSans;
+  font-size: $regularFontSize;
+  line-height: 24px;
+  color: $greydark;
+  word-wrap: break-word;
+  background-color: $lightgrey;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: "Source Code Pro", "Menlo", "Monaco", "Consolas", "Courier New", monospace;
+}
+
+a {
+  text-decoration: none;
+}

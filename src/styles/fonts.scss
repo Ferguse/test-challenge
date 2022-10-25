@@ -1,0 +1,39 @@
+@font-face {
+  font-family: "SourceSans";
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url("assets/fonts/source-sans-pro-regular.woff2") format("woff2"), url("assets/fonts/source-sans-pro-regular.woff") format("woff");
+}
+
+@font-face {
+  font-family: "SourceSans";
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+  src: url("assets/fonts/source-sans-pro-bold.woff2") format("woff2"), url("assets/fonts/source-sans-pro-bold.woff") format("woff");
+}
+
+@font-face {
+  font-family: "Swansea";
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+  src: url("assets/fonts/swansea.woff2") format("woff2"), url("assets/fonts/swansea.woff") format("woff");
+}
+
+@font-face {
+  font-family: "Goldleaf";
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+  src: url("assets/fonts/goldleaf.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "HelloGraduationSans";
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+  src: url("assets/fonts/helloGraduationSans.woff2") format("woff2"), url("assets/fonts/helloGraduationSans.woff") format("woff");
+}

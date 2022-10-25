@@ -1,0 +1,23 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Page [NotFound] Renders 1`] = `
+<div
+  className="bg-white content"
+>
+  <div
+    className="container"
+  >
+    <h2>
+      Page not found
+    </h2>
+    <p>
+      <a
+        href="/"
+        onClick={[Function]}
+      >
+        Go to the home page
+      </a>
+    </p>
+  </div>
+</div>
+`;

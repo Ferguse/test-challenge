@@ -1,0 +1,28 @@
+$slick-font-path: "~slick-carousel/slick/fonts/";
+$slick-loader-path: "~slick-carousel/slick/";
+
+@import '~slick-carousel/slick/slick', '~slick-carousel/slick/slick-theme';
+@import "../../styles/variables.scss";
+
+.carousel {
+  padding: 24px 0 42px;
+  border-bottom: 1px solid $lightblue3;
+  min-height: 400px;
+
+  .slick-arrow::before {
+    color: $lightblue3;
+  }
+
+  .slick-dots li, .slick-dots li button {
+    width: 10px;
+  }
+
+  &_indicator {
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    border: 1px solid $lightblue3;
+    display: inline-block;
+    margin: 0 10px;
+  }
+}

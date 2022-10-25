@@ -1,0 +1,35 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`components [Header] Renders 1`] = `
+<header
+  className="header bg-white"
+>
+  <div
+    className="container flex justify-between"
+  >
+    <div
+      className="bold logo"
+    >
+      <a
+        href="/"
+        onClick={[Function]}
+      >
+        ELITE SPORT
+      </a>
+    </div>
+    <div>
+      <a
+        href="/wish-list"
+        onClick={[Function]}
+      >
+        <i
+          className="fi fi-rs-heart"
+        />
+        <span>
+           Wish list 
+        </span>
+      </a>
+    </div>
+  </div>
+</header>
+`;

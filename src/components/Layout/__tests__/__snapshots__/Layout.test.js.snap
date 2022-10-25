@@ -1,0 +1,127 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`component [Layout] Renders 1`] = `
+<div>
+  <header
+    className="header bg-white"
+  >
+    <div
+      className="container flex justify-between"
+    >
+      <div
+        className="bold logo"
+      >
+        <a
+          href="/"
+          onClick={[Function]}
+        >
+          ELITE SPORT
+        </a>
+      </div>
+      <div>
+        <a
+          href="/wish-list"
+          onClick={[Function]}
+        >
+          <i
+            className="fi fi-rs-heart"
+          />
+          <span>
+             Wish list 
+          </span>
+        </a>
+      </div>
+    </div>
+  </header>
+  <nav
+    className="nav"
+  >
+    <div
+      className="container"
+    >
+      <ul
+        className="nav-list flex"
+      >
+        <li
+          className="nav-item"
+        >
+          <a
+            href="/"
+            onClick={[Function]}
+          >
+            <i
+              className="fi fi-rs-home nav-icon"
+            />
+            <span>
+               Home
+            </span>
+          </a>
+        </li>
+        <li
+          className="nav-item"
+        >
+          <a
+            href="/category/bike"
+            onClick={[Function]}
+          >
+            <i
+              className="fi fi-rs-bike nav-icon"
+            />
+            <span>
+               
+              bike
+            </span>
+          </a>
+        </li>
+        <li
+          className="nav-item"
+        >
+          <a
+            href="/category/hiking"
+            onClick={[Function]}
+          >
+            <i
+              className="fi fi-rs-hiking nav-icon"
+            />
+            <span>
+               
+              hiking
+            </span>
+          </a>
+        </li>
+        <li
+          className="nav-item"
+        >
+          <a
+            href="/category/skating"
+            onClick={[Function]}
+          >
+            <i
+              className="fi fi-rs-skating nav-icon"
+            />
+            <span>
+               
+              skating
+            </span>
+          </a>
+        </li>
+      </ul>
+    </div>
+  </nav>
+  <footer>
+    <div
+      className="container"
+    >
+      <p>
+        Ipsum.
+      </p>
+      <p>
+        Dolor nostrud est cupidatat aute magna cupidatat do consequat magna nisi voluptate. Sit aliquip exercitation nulla proident sint sint amet exercitation mollit anim aliquip velit. Do adipisicing Lorem laboris enim velit sit nulla sint nisi excepteur consequat id ad exercitation. Irure labore incididunt.
+      </p>
+      <p>
+        Et ad et incididunt tempor.
+      </p>
+    </div>
+  </footer>
+</div>
+`;

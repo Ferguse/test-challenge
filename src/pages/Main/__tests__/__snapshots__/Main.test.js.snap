@@ -1,0 +1,271 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Page [Main] Renders 1`] = `
+<main
+  className="content bg-white"
+>
+  <div
+    className="container"
+  >
+    <div
+      className="carousel"
+    >
+      <h2
+        className="title"
+      >
+        <a
+          href="/category/bike"
+          onClick={[Function]}
+        >
+          bike
+        </a>
+        <i
+          className="carousel_indicator"
+          style={
+            {
+              "backgroundColor": "#ffa2a2",
+            }
+          }
+        />
+      </h2>
+      <div
+        className="slick-slider slick-initialized"
+      >
+        
+        <div
+          className="slick-list"
+        >
+          <div
+            className="slick-track"
+            onMouseEnter={[Function]}
+            onMouseLeave={[Function]}
+            onMouseOver={[Function]}
+            style={
+              {
+                "WebkitTransform": "translate3d(0px, 0px, 0px)",
+                "WebkitTransition": "",
+                "msTransform": "translateX(0px)",
+                "opacity": 1,
+                "transform": "translate3d(0px, 0px, 0px)",
+                "transition": "",
+              }
+            }
+          >
+            <div
+              aria-hidden={false}
+              className="slick-slide slick-active slick-current"
+              data-index={0}
+              onClick={[Function]}
+              style={
+                {
+                  "outline": "none",
+                  "width": 0,
+                }
+              }
+              tabIndex="-1"
+            >
+              <div>
+                <div
+                  className="card"
+                  style={
+                    {
+                      "--category-color": "#ffa2a2",
+                    }
+                  }
+                >
+                  <a
+                    href="/category/bike/book/test"
+                    onClick={[Function]}
+                  >
+                    <div
+                      className="card-content flex direction-column justify-between"
+                    >
+                      <div
+                        className="card-image flex justify-center"
+                      >
+                        <img
+                          loading="lazy"
+                        />
+                        <i
+                          className="fi fi-rs-books card-icon"
+                        />
+                      </div>
+                      <div
+                        className="card-info flex direction-column"
+                      >
+                        <span
+                          className="card-title bold"
+                        >
+                          
+                        </span>
+                        <span>
+                          NaN
+                        </span>
+                      </div>
+                    </div>
+                  </a>
+                </div>
+              </div>
+            </div>
+            <div
+              aria-hidden={false}
+              className="slick-slide slick-active slick-cloned"
+              data-index={1}
+              onClick={[Function]}
+              style={
+                {
+                  "width": 0,
+                }
+              }
+              tabIndex="-1"
+            >
+              <div>
+                <div
+                  className="card"
+                  style={
+                    {
+                      "--category-color": "#ffa2a2",
+                    }
+                  }
+                >
+                  <a
+                    href="/category/bike/book/test"
+                    onClick={[Function]}
+                  >
+                    <div
+                      className="card-content flex direction-column justify-between"
+                    >
+                      <div
+                        className="card-image flex justify-center"
+                      >
+                        <img
+                          loading="lazy"
+                        />
+                        <i
+                          className="fi fi-rs-books card-icon"
+                        />
+                      </div>
+                      <div
+                        className="card-info flex direction-column"
+                      >
+                        <span
+                          className="card-title bold"
+                        >
+                          
+                        </span>
+                        <span>
+                          NaN
+                        </span>
+                      </div>
+                    </div>
+                  </a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        
+        
+      </div>
+    </div>
+    <div
+      className="carousel"
+    >
+      <h2
+        className="title"
+      >
+        <a
+          href="/category/hiking"
+          onClick={[Function]}
+        >
+          hiking
+        </a>
+        <i
+          className="carousel_indicator"
+          style={
+            {
+              "backgroundColor": "#a7fda7",
+            }
+          }
+        />
+      </h2>
+      <div
+        className="slick-slider slick-initialized"
+      >
+        
+        <div
+          className="slick-list"
+        >
+          <div
+            className="slick-track"
+            onMouseEnter={[Function]}
+            onMouseLeave={[Function]}
+            onMouseOver={[Function]}
+            style={
+              {
+                "WebkitTransform": "translate3d(0px, 0px, 0px)",
+                "WebkitTransition": "",
+                "msTransform": "translateX(0px)",
+                "opacity": 1,
+                "transform": "translate3d(0px, 0px, 0px)",
+                "transition": "",
+              }
+            }
+          />
+        </div>
+        
+        
+      </div>
+    </div>
+    <div
+      className="carousel"
+    >
+      <h2
+        className="title"
+      >
+        <a
+          href="/category/skating"
+          onClick={[Function]}
+        >
+          skating
+        </a>
+        <i
+          className="carousel_indicator"
+          style={
+            {
+              "backgroundColor": "#a9a9fb",
+            }
+          }
+        />
+      </h2>
+      <div
+        className="slick-slider slick-initialized"
+      >
+        
+        <div
+          className="slick-list"
+        >
+          <div
+            className="slick-track"
+            onMouseEnter={[Function]}
+            onMouseLeave={[Function]}
+            onMouseOver={[Function]}
+            style={
+              {
+                "WebkitTransform": "translate3d(0px, 0px, 0px)",
+                "WebkitTransition": "",
+                "msTransform": "translateX(0px)",
+                "opacity": 1,
+                "transform": "translate3d(0px, 0px, 0px)",
+                "transition": "",
+              }
+            }
+          />
+        </div>
+        
+        
+      </div>
+    </div>
+  </div>
+</main>
+`;

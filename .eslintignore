@@ -1,0 +1,16 @@
+# Third party
+**/node_modules
+bower_components/*
+
+# Build products
+build/
+public/
+coverage/
+
+# Misc
+.vscode
+*.config.js
+.eslintrc.js
+.webpack
+.serverless
+_warmup

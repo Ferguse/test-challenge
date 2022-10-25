@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Page [Book] Renders 1`] = `
+<div
+  className="content bg-white book"
+  style={
+    {
+      "--category-color": undefined,
+      "font-family": undefined,
+    }
+  }
+>
+  <div
+    className="container"
+  />
+</div>
+`;

@@ -1,0 +1,53 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`components [Carousel] Renders 1`] = `
+<div
+  className="carousel"
+>
+  <h2
+    className="title"
+  >
+    <a
+      href="/category/bike"
+      onClick={[Function]}
+    >
+      bike
+    </a>
+    <i
+      className="carousel_indicator"
+      style={
+        {
+          "backgroundColor": "#ffa2a2",
+        }
+      }
+    />
+  </h2>
+  <div
+    className="slick-slider slick-initialized"
+  >
+    
+    <div
+      className="slick-list"
+    >
+      <div
+        className="slick-track"
+        onMouseEnter={[Function]}
+        onMouseLeave={[Function]}
+        onMouseOver={[Function]}
+        style={
+          {
+            "WebkitTransform": "translate3d(0px, 0px, 0px)",
+            "WebkitTransition": "",
+            "msTransform": "translateX(0px)",
+            "opacity": 1,
+            "transform": "translate3d(0px, 0px, 0px)",
+            "transition": "",
+          }
+        }
+      />
+    </div>
+    
+    
+  </div>
+</div>
+`;

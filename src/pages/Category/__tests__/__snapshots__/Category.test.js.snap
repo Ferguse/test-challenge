@@ -1,0 +1,61 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Page [Category] Renders 1`] = `
+<section
+  className="category bg-white content"
+>
+  <div
+    className="container"
+  >
+    <h2
+      className="title"
+    >
+      bike
+    </h2>
+    <div
+      className="category-grid"
+    >
+      <div
+        className="card"
+        style={
+          {
+            "--category-color": undefined,
+          }
+        }
+      >
+        <a
+          href="/category/undefined/book/test"
+          onClick={[Function]}
+        >
+          <div
+            className="card-content flex direction-column justify-between"
+          >
+            <div
+              className="card-image flex justify-center"
+            >
+              <img
+                loading="lazy"
+              />
+              <i
+                className="fi fi-rs-books card-icon"
+              />
+            </div>
+            <div
+              className="card-info flex direction-column"
+            >
+              <span
+                className="card-title bold"
+              >
+                
+              </span>
+              <span>
+                NaN
+              </span>
+            </div>
+          </div>
+        </a>
+      </div>
+    </div>
+  </div>
+</section>
+`;
